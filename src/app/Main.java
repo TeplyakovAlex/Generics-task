@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         getOutput(getData(getOption()));
     }
-
+    //
     private static int getOption() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("""

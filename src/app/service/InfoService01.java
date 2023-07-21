@@ -9,7 +9,7 @@ public class InfoService01 {
     Scanner scanner;
     String name;
     String email;
-
+    //
     public String getData() {
        return formData(getInputs());
     }

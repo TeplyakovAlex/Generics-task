@@ -10,7 +10,7 @@ public class InfoService02 {
     Scanner scanner;
     String name;
     double amount;
-
+    //
     public String getData() {
         return formData(getInputs());
     }
